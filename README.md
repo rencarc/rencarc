@@ -1,11 +1,4 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
-## 🚀 About Me
-I'm a full stack developer...
 # Hi 👋 I'm Zhen Xu
 
 🎯 **Full-Stack Developer** | Passionate about user experience, product thinking & scalable solutions  
