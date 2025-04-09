@@ -42,9 +42,10 @@ Languages:English (Fluent), Swedish (Intermediate), Chinese (Native)
 
 💬 Let's Connect
 
-- 📧 zhen6684@gmail.com  
+- 📧 xzhen6684@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/zhenxu00)  
 - 💻 [GitHub Projects](https://github.com/rencarc)
+- 🌐 [My Portfolio](https://zhenxuportfolio.vercel.app/)
 
 ---
 
