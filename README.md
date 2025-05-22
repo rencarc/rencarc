@@ -1,4 +1,3 @@
-
 # Hi 👋 I'm Zhen Xu
 
 🎯 **Full-Stack Developer** | Passionate about user experience, product thinking & scalable solutions  
@@ -9,34 +8,45 @@
 
 🚀 What I'm working on
 
-- Building modern full-stack web apps using **React.js**, **Next.js**, **Node.js**, and **TypeScript**
-- Exploring **CI/CD workflows**, **API integration**, and **cloud deployment** (Vercel, Render, Netlify)
-- Continuously improving through hands-on projects and real-world business cases
+- Building full-stack web apps using **React**, **Next.js**, **TypeScript**, **Supabase**, and **OpenAI API**
+- Collaborating on **AI-assisted UI testing** at Scale AI using LLMs to improve frontend output quality
+- Exploring **CI/CD workflows**, **authentication systems**, and **cloud deployment** (Vercel, Render, Netlify)
 
 ---
 
 🛠️ Tech Stack
 
-Frontend:React, Next.js, Tailwind CSS, HTML/CSS, TypeScript, Axios  
-Backend:Node.js, Express.js, Django  
-Database: PostgreSQL (Neon), MongoDB, Prisma, SQL  
-Tools: Git, GitHub, VS Code, Clerk, UploadThing  
-DevOps: Vercel, Netlify, Render | CI/CD | RESTful APIs  
-Languages:English (Fluent), Swedish (Intermediate), Chinese (Native)
+Frontend: React, Next.js, Tailwind CSS, HTML/CSS, TypeScript, Axios  
+Backend: Node.js, Express.js, Django, REST API  
+Database: PostgreSQL (Neon), MongoDB, Prisma  
+Auth & Integrations: Supabase, Clerk, UploadThing  
+Tools: Git, GitHub, VS Code, Postman, Figma  
+DevOps: Vercel, Netlify, Render | CI/CD | OpenAI API  
+Languages: English (Fluent), Swedish (Intermediate), Chinese (Native)
 
 ---
 
 📂 Featured Projects
 
-- **Swedish Vocabulary Platform**  
-  Full-stack learning app built with React, Node.js & MongoDB. Features CORS-secured APIs, real-time state updates and RESTful backend.  
-  [Live Demo](https://lucent-kelpie-cd3d04.netlify.app/)
+- **GOAT Notes**  
+  Minimalist AI-powered note app with GPT-based summarization and Q&A. Styled with shadcn/ui and Framer Motion.  
+  [Live Demo](https://gote-note.vercel.app/)
 
 - **Full-stack Social Media Platform**  
-  Built with Next.js 13, TypeScript, Prisma, and Clerk for auth. Deployed on Vercel with full CI/CD pipeline.  
+  Built with Next.js 13, TypeScript, Prisma, Clerk, and UploadThing. Features multi-user interaction, dynamic feed, and dark mode.  
   [Live Demo](https://fullstack-socially.vercel.app/)
 
-- *(Coming soon: A cloud-native ESG dashboard with AI-enhanced reporting features!)*
+- **Swedish Vocabulary Platform**  
+  Vocabulary learning app with RESTful APIs, MongoDB, and custom sentence-based memory features.  
+  [Live Demo](https://lucent-kelpie-cd3d04.netlify.app/)
+
+
+---
+
+💼 Recent Work
+
+- **Prompt Engineer & UI QA Collaborator @ Scale AI (Tauros Project)**  
+  Refined LLM-generated frontend code (HTML/CSS/JS) by reviewing visual design, logic flow, and user interaction behavior.
 
 ---
 
@@ -44,7 +54,7 @@ Languages:English (Fluent), Swedish (Intermediate), Chinese (Native)
 
 - 📧 xzhen6684@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/zhenxu00)  
-- 💻 [GitHub Projects](https://github.com/rencarc)
+- 💻 [GitHub Projects](https://github.com/rencarc)  
 - 🌐 [My Portfolio](https://zhenxuportfolio.vercel.app/)
 
 ---
